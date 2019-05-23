@@ -47,6 +47,5 @@ $(document).ready(function(){
     error: function(){
       alert("Chiamata fallita!!!");
     }
-    });
-
+  });
 });
